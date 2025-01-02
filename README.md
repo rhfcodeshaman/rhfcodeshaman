@@ -18,7 +18,7 @@ Welcome to my corner of the digital universe! 🚀 I'm a passionate **DevOps Eng
 💬 **Ask Me About**: 
 - How to wrangle **SaltStack**.
 - **Agile Methodologies**, I keep getting made a Scrum Master for some reason.
-- ChatGPT or Gemini API.
+- **ChatGPT** or **Gemini API**.
 
 📫 **How to Reach Me**: 
 - LinkedIn: [Matthew Meyer](https://www.linkedin.com/in/matthew-meyer/) (Let’s connect!)
