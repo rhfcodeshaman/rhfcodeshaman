@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Matt!
 
-Welcome to my corner of the digital universe! 🚀 I'm a passionate **DevOps Engineer** currently looking to broaden their technological horizons and seek new challenges.
+I'm a passionate **DevOps Engineer** currently looking to broaden their technological horizons and seek new challenges.
 
 ## 🛠️ What I’m All About
 🔭 **Currently Working On**: 
