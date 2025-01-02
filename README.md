@@ -5,7 +5,7 @@ Welcome to my corner of the digital universe! 🚀 I'm a passionate **DevOps Eng
 ## 🛠️ What I’m All About
 🔭 **Currently Working On**: 
 - Professionally: enhancing automation workflows using **Jenkins**, **SaltStack**, and **Kubernetes**.
-- Personally: exploring AI and how we can integrate it into DevOps practices
+- Personally: exploring **AI** and how we can integrate it into **DevOps** practices
 
 🌱 **Currently Learning**: 
 - Diving into **cloud-native architectures**, primarily **GCP**.
