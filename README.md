@@ -23,7 +23,8 @@ Welcome to my corner of the digital universe! 🚀 I'm a passionate **DevOps Eng
 📫 **How to Reach Me**: 
 - LinkedIn: [Matthew Meyer](https://www.linkedin.com/in/matthew-meyer/) (Let’s connect!)
 
-⚡ **Fun Fact**: An eagle tried to carry me off when I was a toddler!
+⚡ **Fun Fact**: 
+- An eagle tried to carry me off when I was a toddler!
 
 ## 💻 My Tech Toolbox
 - **Languages**: Python, Shell scripting, learning Java and Go
